@@ -1,0 +1,69 @@
+#id1{
+    text-align: center;
+   
+}
+#id1{
+     background-image: url( ../assest/CSS_Assets/HeroSection_img/backgroundimage.png)!important;
+     background-size: cover;
+     z-index: -1;
+     
+}
+.cla5{
+    display: flex;
+    justify-content: right;
+    align-items: right;
+    margin-top: 20px;
+}
+#id6{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.cla89{
+    display: flex;  
+    justify-content: space-between;
+
+
+}
+.cla75{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    /* margin-top: 20px; */
+    padding: 40px;
+    background-color: rgba(212, 222, 231, 0.829);
+    margin: 10px 175px 10px 175px;
+}
+    #id71{
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    margin-top: 10px;
+    padding: 50px;
+   }
+
+
+   .cla88{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 20px;
+    padding: 40px;}
+
+.cla72{
+    border-style: 1px solid ;
+}
+    
+
+#idmain{
+    display: flex;
+    justify-content: space-between !important;
+    align-items: center;
+    margin-top: 20px;
+    padding: 50px;
+    background-color: rgba(220, 223, 225, 0.829);
+    margin: 10px 175px 10px 175px;
+    grid-column: 2 / 1; 
+}
